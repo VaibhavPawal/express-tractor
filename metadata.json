@@ -1,0 +1,6 @@
+{
+  "name": "Daybook",
+  "description": "A calm, intuitive daily expense tracker and monthly spending summary ledger stored privately in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
